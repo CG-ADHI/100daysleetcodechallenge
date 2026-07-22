@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0202-happy-number) |
 ## Math
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
