@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
