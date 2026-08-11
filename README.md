@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0641-design-circular-deque) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,12 +52,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
