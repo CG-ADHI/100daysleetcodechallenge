@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0641-design-circular-deque) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
