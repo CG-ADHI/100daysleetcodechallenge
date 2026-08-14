@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
