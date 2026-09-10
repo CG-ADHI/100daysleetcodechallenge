@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0647-palindromic-substrings) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0641-design-circular-deque) |
 ## Divide and Conquer
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
