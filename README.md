@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0647-palindromic-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0622-design-circular-queue](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0641-design-circular-deque) |
+| [0977-squares-of-a-sorted-array](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
