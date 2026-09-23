@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/CG-ADHI/100daysleetcodechallenge/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
